@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ce6c7a3cb296d5439160ec25b087ef4, type: 3}
+  m_Name: Phase_SlashAndStomp_2
+  m_EditorClassIdentifier: 
+  Duration: {fileID: 11400000, guid: 3d371a4d28cdcfe41bac8f4ff556bf84, type: 2}
+  PhaseConsequences:
+  - normalizedTime: 0.6
+    consequences:
+    - {fileID: 11400000, guid: 6900623f595a4e4499df912eac242cc2, type: 2}
